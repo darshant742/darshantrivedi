@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="en">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="css/style.min.css">
+<link rel="stylesheet" href="css/fonts.css">
+<link rel="stylesheet" href="https://npmcdn.com/flickity@2/dist/flickity.css">
+
+
+<head>
+    <title>HOSHINOYA Kyoto | Resort Hotel in Kyoto, Japan - Hotel Reservation</title>
+</head>
+
+<body>
+    <!-- loader -->
+    <div id="loader">
+        <img class="blurOut" src="images/logo.png" alt="">
+    </div>
+
+    <div class="h-wrapper">
+        <header class="h-header">
+            <div class="container">
+                <a class="h-menu-icon" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </a>
+
+                <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+                    <div class="offcanvas-header">
+                        <h5 class="offcanvas-title" id="offcanvasExampleLabel">Menu</h5>
+                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <div>
+                            Some text as placeholder. In real life you can have the elements you have chosen. Like, text, images, lists, etc.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <section class="h-banner-section" data-type="background" data-speed="5">
+            <div class="container">
+                <div class="h-banner-content">
+                    <div class="h-logo">
+                        <img src="images/logo.png" alt="">
+                    </div>
+                    <h1>A RIVERSIDE RESORT OF ELEGANCE, SERENITY, AND SEASONAL BEAUTY</h1>
+                    <p>The Oi River gradually narrows until Kyoto's cityscape is displaced by a world of seasonal, ethereal colors. The Japanese word yugen --"immeasurable depth"-- is used to describe this kaleidoscopic display of verdant greens veiled by
+                        mists, reds and yellows decorating the hills in the fall, and the white that blankets the scenery in the winter. There is elegance in this beautiful serenity.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="h-river-section">
+            <div class="container">
+                <div class="h-river-content">
+                    <h2>A River<br> of Profound Tranquility</h2>
+                    <p>You embark on the boat that will take you to HOSHINOYA Kyoto. It begins to slowly drift along a river that once bustled with boats, which carried people as well as goods. Today, however, it is pleasantly quiet. You see a flock of kingfishers
+                        flying downstream, bringing with them a soothing breeze that cleanses your mind and body as you approach the resort. No matter the season, it is always a little cooler on the boat than it is on land. Finally, you arrive at your
+                        destination. The trip has taken just fifteen minutes--but each minute has felt momentous.</p>
+                    <div class="h-river-image" data-type="background" data-speed="6"></div>
+                    <div class="h-river-path">
+                        <img src="images/path.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="h-slider-section">
+
+            <div class="h-slider-content">
+                <div class="container">
+                    <h2>A Natural Environment Shaped by Artistry</h2>
+                </div>
+
+                <div class="h-slider">
+                    <div class="h-slider-image">
+                        <div class="carousel">
+                            <div class="carousel-cell">
+                                <img src="images/1.jpg" alt="">
+                            </div>
+                            <div class="carousel-cell">
+                                <img src="images/2.jpg" alt="">
+                            </div>
+                            <div class="carousel-cell">
+                                <img src="images/3.jpg" alt="">
+                            </div>
+                            <div class="carousel-cell">
+                                <img src="images/4.jpg" alt="">
+                            </div>
+                            <div class="carousel-cell">
+                                <img src="images/5.jpg" alt="">
+                            </div>
+                            <div class="carousel-cell">
+                                <img src="images/1.jpg" alt="">
+                            </div>
+                            <div class="carousel-cell">
+                                <img src="images/2.jpg" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+    </div>
+
+    <footer class="h-footer">
+        <div class="container">
+            <p>All Rights Reserved 2022 &copy; Darshan Trivedi.</p>
+        </div>
+    </footer>
+
+    <!-- Return to Top -->
+    <a href="javascript:" class="h-return-to-top">
+        <i class="fas fa-chevron-up"></i>
+    </a>
+
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/all.min.js"></script>
+    <script src="js/common.js"></script>
+    <script src="https://npmcdn.com/flickity@2/dist/flickity.pkgd.js"></script>
+    <script src="js/home.js"></script>
+
+
+
+</body>
+
+</html>
